@@ -18,11 +18,9 @@ async function buscaEndereco(cep) {
     bairro.value = consultaCEPConvertida.bairro;
     estado.value = consultaCEPConvertida.uf;
 
-    console.log(consultaCEPConvertida);
     return consultaCEPConvertida;
   } catch (erro) {
     mensagemErro.innerHTML = `<p>CEP inválido. Tente novamente.</p>`;
-    console.log(erro);
   }
 }
 
