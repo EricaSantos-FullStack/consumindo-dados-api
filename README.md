@@ -3,8 +3,8 @@ Neste projeto é consumido os dados da API ViaCEP para treinar os conceitos de j
 
 ✨ Página de cadastro realizada durante as aulas da Trilha Desenvolve - Full Stack da plataforma Alura em parceria com o Grupo Boticário. ✨
 
-❣ Teste você mesmo!
-
+❣ Teste você mesmo e inclua um CEP!
+https://ericasantos-fullstack.github.io/consumindo-dados-api/
 
 
 
